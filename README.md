@@ -4,4 +4,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaCheetah&count_private=false&locale=en&theme=tokyonight&layout=donut)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NinjaCheetah&show_icons=true&locale=en&theme=tokyonight)
 
-<sup>Note that these stats may or may not be including data from [NCX Programming](https://github.com/NCX-Programming), where much of my real work is done. Language distrobution for one is very different there.</sup>
+<sup>Note that these stats may or may not be including data from [NCX Programming](https://github.com/NCX-Programming), where much of my real work is done. Language distribution for one is very different there.</sup>
